@@ -16,7 +16,7 @@ import (
 	"github.com/hashicorp/consul-template/logging"
 	"github.com/hashicorp/consul-template/manager"
 	"github.com/hashicorp/consul-template/signals"
-	"github.com/hashicorp/envconsul/version"
+	"github.com/stack-fintech/envconsul/version"
 )
 
 // Exit codes are int values that represent an exit code for a particular error.
